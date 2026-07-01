@@ -1,0 +1,19 @@
+[project]
+name = "TBCards"
+version = "0.0.1"
+authors = [
+  { name="Aspen Meissner", email="aikorrana@gmail.com" },
+]
+description = "A free and open-source python library that provides tools for creating text-based card games."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "GPL-3.0"
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "https://github.com/epsilonemae/TBCards"
+Issues = "https://github.com/epsilonemae/TBCards/issues"
