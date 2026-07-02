@@ -38,3 +38,6 @@ You can then test the repo by running
 ```
 pytest
 ```
+
+# Acknowledgements
+Portions of this material are based upon work supported by the National Science Foundation under Grant No. 2348724.
