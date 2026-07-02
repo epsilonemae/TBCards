@@ -10,3 +10,6 @@ env/
 
 # Ignoring the egg-info directory
 *.egg-info
+
+# build folder
+build/
