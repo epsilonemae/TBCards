@@ -13,6 +13,7 @@ classifiers = [
 ]
 license = "GPL-3.0"
 license-files = ["LICENSE"]
+dependencies = ["curlypy>=0.1.0"]
 
 [project.urls]
 Homepage = "https://github.com/epsilonemae/TBCards"
