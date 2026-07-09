@@ -3,9 +3,9 @@ import sys
 
 sys.path.insert(0, os.path.abspath("../src"))
 
-project = "Atom2seq"
-copyright = "2024, Ryan M. Richard"
-author = "Ryan M. Richard"
+project = "TBCards"
+copyright = "Aspen A.M. Meissner"
+author = "Aspen A.M. Meissner"
 release = "0.1.0"
 
 extensions = [
