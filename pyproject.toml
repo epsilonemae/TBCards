@@ -2,7 +2,7 @@
 name = "TBCards"
 version = "0.0.1"
 authors = [
-  { name="Aspen Meissner", email="aikorrana@gmail.com" },
+  { name="Aspen A.M. Meissner", email="aikorrana@gmail.com" },
 ]
 description = "A free and open-source python library that provides tools for creating text-based card games."
 readme = "README.md"
@@ -15,6 +15,7 @@ license = "GPL-3.0"
 license-files = ["LICENSE"]
 dependencies = []
 
+[project.optional-dependencies]
 dev = [
     "pytest",
     "sphinx",
