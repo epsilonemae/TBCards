@@ -13,3 +13,10 @@ env/
 
 # build folder
 build/
+
+# coverage
+.coverage
+htmlcov/
+
+# pytest chace
+.pytest_cache/
