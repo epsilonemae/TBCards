@@ -13,7 +13,15 @@ classifiers = [
 ]
 license = "GPL-3.0"
 license-files = ["LICENSE"]
-dependencies = ["coverage>7.0.0", "pytest"]
+dependencies = []
+
+dev = [
+    "pytest",
+    "sphinx",
+    "sphinx-rtd-theme",
+    "flake8",
+    "python-semantic-release"
+]
 
 [project.urls]
 Homepage = "https://github.com/epsilonemae/TBCards"
